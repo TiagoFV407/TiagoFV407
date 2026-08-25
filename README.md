@@ -1,13 +1,39 @@
-# Sobre Mim 👾🎮
-Olá! Meu nome é Tiago e eu sou apaixonado por **programação de jogos**! Desde sempre, tenho um fascínio por criar experiências imersivas que conectam pessoas no mundo dos games. Minha jornada como desenvolvedor é movida pela curiosidade, criatividade e pela busca constante de aprendizado nessa área que tanto amo.
+# Hi, I'm Tiago 👋
 
-## Por Que Escolhi a Programação de Jogos?
-Os jogos têm o poder de contar histórias, desafiar limites e despertar emoções únicas, uma possibilidade de transformar ideias em realidade virtual é o que me motiva a aprimorar minhas habilidades todos os dias.
+I'm a Software Engineering student and an IT Support Technician with 3 years of experience in the technology field.
 
-## O Que Estou Fazendo Agora? 🚀
-- **Aprendizado Contínuo:** Estou sempre explorando novas tecnologias e ferramentas, como Unity, Unreal Engine e C#. 
-- **Projetos Pessoais:** Tentando trabalhar em alguns projetos simples, jogos 2D de plataforma ou jogos de visão top-down.
-- **Colaboração:** Amo trabalhar em equipe para trazer ideias à vida e aprender com outros desenvolvedores.
+I'm currently focused on strengthening my programming fundamentals and learning Java, with the goal of transitioning into software development and backend engineering.
 
-## Objetivo 🎯
-Meu objetivo é me tornar um programador de jogos profissional e contribuir para a criação de títulos que inspirem e divirtam jogadores ao redor do mundo. Estou em busca de oportunidades para trabalhar em equipes apaixonadas por desenvolvimento de jogos, onde eu possa crescer e fazer a diferença.
+## 👨‍💻 About Me
+
+* 🎓 Software Engineering student
+* 💻 3 years of experience in IT Support
+* ☕ Currently learning Java
+* 🗄️ Interested in backend development, databases and software engineering
+* 🌎 Interested in building an international career in software development
+
+## 🚀 Currently Learning
+
+* Java
+* Object-Oriented Programming
+* SQL
+* Git & GitHub
+* Programming fundamentals
+
+## 🎯 Current Goal
+
+My current goal is to transition from IT Support to Software Development while building a strong foundation in Java and backend technologies.
+
+I'm focused on learning consistently, building practical projects and improving my skills step by step.
+
+## 🎮 Personal Interests
+
+I'm also interested in game development as a hobby, especially 2D games, Unity and C#.
+
+## 🌎 Long-Term Goal
+
+Build a strong career in software engineering and eventually pursue international opportunities.
+
+## 📫 Connect with me
+
+* GitHub: [TiagoFV407](https://github.com/TiagoFV407)
