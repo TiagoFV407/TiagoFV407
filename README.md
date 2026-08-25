@@ -30,10 +30,3 @@ I'm focused on learning consistently, building practical projects and improving 
 
 I'm also interested in game development as a hobby, especially 2D games, Unity and C#.
 
-## 🌎 Long-Term Goal
-
-Build a strong career in software engineering and eventually pursue international opportunities.
-
-## 📫 Connect with me
-
-* GitHub: [TiagoFV407](https://github.com/TiagoFV407)
