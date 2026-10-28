@@ -28,7 +28,7 @@
 
 ---
 
-### 🐍 GitHub Snake Animation
+### 🐍 Snake Animation
 
 <p align="center">
   <img src="https://github.com/TiagoFV407/TiagoFV407/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
